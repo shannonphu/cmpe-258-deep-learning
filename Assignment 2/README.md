@@ -1,4 +1,6 @@
 # Assignment 2
+## Demo Video: https://www.youtube.com/watch?v=DtbOP_XEwVg
+
 ## Part 1: Google Cloud AI Platform Tutorials
 - [x] Hello image data
 - [x] Hello text data
