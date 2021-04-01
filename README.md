@@ -14,3 +14,6 @@
 	* Part C1: Implement a neural network with pure Tensorflow tensors
 	* Part C2: Implement a neural network with pure Tensorflow tensors and autodifferentiation
 	* Part C3: Implement a neural network with Tensorflow high level primitives
+* HW #4:
+	* Part A: Implement MNIST classifier using numpy neural network
+	* Part B: Implement MNIST classifier using Keras
