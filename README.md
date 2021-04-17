@@ -17,3 +17,5 @@
 * HW #4:
 	* Part A: Implement MNIST classifier using numpy neural network
 	* Part B: Implement MNIST classifier using Keras
+* HW #5:
+	* DL Pipelines
