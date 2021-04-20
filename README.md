@@ -19,3 +19,4 @@
 	* Part B: Implement MNIST classifier using Keras
 * HW #5:
 	* DL Pipelines
+* Short Story: [A Survey on Transfer Learning in NLP](https://shannonphu.medium.com/a-survey-on-transfer-learning-in-nlp-f6e0e92824b3)
